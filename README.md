@@ -1,7 +1,7 @@
-# Data science
+# Data science:
 
 
-## The goal
+## The goal:
     Here I place my latest data science projects, mostly with graphs. I
     might add this as my portfolio repo, so that I can put up my latest
     projects right here after I will finish with them
