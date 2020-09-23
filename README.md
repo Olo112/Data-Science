@@ -8,7 +8,7 @@
 
 ## About the projects:
 
-### Sine data graph:
+### Sine-data:
     This is one of my beginner projects. It is easy, but it helped me to
     think more about how I could create my projects to get towards the field
     of data science
