@@ -7,7 +7,7 @@ def sin_val():
     return ls_sin
 
 
-def angke():
+def angke(ls_sin):
 
     a = 0
     b = 5
@@ -20,4 +20,5 @@ def angke():
     for i in range(1, N):
         a = a+b
         ls_ang.append(a)
+
     return ls_ang
