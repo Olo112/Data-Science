@@ -7,14 +7,14 @@ def sin_val():
     return ls_sin
 
 
-def angke(ls_sin):
+def angke(ls):
 
     a = 0
     b = 5
 
     ls_ang = [0]
 
-    N = len(ls_sin)
+    N = len(ls)
 
 
     for i in range(1, N):
