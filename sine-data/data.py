@@ -7,7 +7,7 @@ def sin_val():
     return ls_sin
 
 
-def angke(ls):
+def angle(ls):
 
     a = 0
     b = 5
