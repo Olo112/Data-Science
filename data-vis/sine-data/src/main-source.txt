@@ -1,0 +1,17 @@
+===================================================
+MAIN SOURCE:
+===================================================
+
+To count sine value of any number, I have done it phisically, but you can also do
+it your way. So my source came out of a piece of paper.
+
+1:      I drew a circle for which r = 10cm,
+
+2:      started counting sine from the traditional equation a/r, where
+        r was always r = 10cmm, and a is the distance from the point on the
+        circle to the 0 degrees line point,
+
+3:      count the sine from it;
+
+
+And thats why you might see the wrong answers in the data.py file.
