@@ -21,28 +21,28 @@
     data. One of the great ways are of course graphs:
 
         '''python
-        #========================================
-        #   IMPORTS:
-        #========================================
+            #========================================
+            #   IMPORTS:
+            #========================================
 
-        from matplotlib import pyplot as plt
-
-
-        #========================================
-        #   MAIN:
-        #========================================
-
-        # generating a list of data
-        ls = [1, 2, 3, 4, 5]
-
-        # ploting the generated list
-        plt.plot(ls)
-
-        # showing the graph
-        plt.show()
+            from matplotlib import pyplot as plt
 
 
-        #========================================
-        #   END OF FILE
-        #========================================
+            #========================================
+            #   MAIN:
+            #========================================
+
+            # generating a list of data
+            ls = [1, 2, 3, 4, 5]
+
+            # ploting the generated list
+            plt.plot(ls)
+
+            # showing the graph
+            plt.show()
+
+
+            #========================================
+            #   END OF FILE
+            #========================================
         '''
