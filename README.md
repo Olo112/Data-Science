@@ -13,6 +13,7 @@
     think more about how I could create my projects to get towards the field
     of data science;
 
+---
 
 ### linear function:
     Also one of my primary projects. This project shows how mathematically linear
@@ -20,7 +21,7 @@
     the best python data science tools work. Matplotlib is a great way to visualize
     data. One of the great ways are of course graphs:
 
-        '''python
+        ```python
             #========================================
             #   IMPORTS:
             #========================================
@@ -45,4 +46,6 @@
             #========================================
             #   END OF FILE
             #========================================
-        '''
+        ```
+
+---
